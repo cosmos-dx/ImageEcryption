@@ -15,3 +15,5 @@ encryption and decryption.
 	f. pyglet  
 	g. argparse  
 3. Python version above 3.6 can be used.  
+
+![image](https://github.com/cosmos-dx/ImageEcryption/assets/103832942/81aa9837-e7c7-48fc-a8eb-1a991a88d1ed)
